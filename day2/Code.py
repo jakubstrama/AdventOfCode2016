@@ -37,6 +37,7 @@ class Code:
                 return
             self.location = (self.location[0], moveVal)
 
+
     def __checkValue(self, a, b):
         try:
             if a < 0 or b < 0:
