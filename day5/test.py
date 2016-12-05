@@ -1,0 +1,1 @@
+print(7 not in range(0,8))
